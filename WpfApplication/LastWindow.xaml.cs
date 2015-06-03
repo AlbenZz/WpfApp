@@ -20,7 +20,6 @@ namespace WpfApplication
     public partial class LastWindow : Window
     {
         public int change1 { get; set; }
-        public int change2 { get; set; }
         public LastWindow()
         {
             InitializeComponent();
