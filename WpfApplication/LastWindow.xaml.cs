@@ -25,5 +25,7 @@ namespace WpfApplication
         {
             InitializeComponent();
         }
+
+        public int change3 { get; set; }
     }
 }
