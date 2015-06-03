@@ -27,8 +27,5 @@ namespace WpfApplication
         }
 
         public int change3 { get; set; }
-
-
-
     }
 }
